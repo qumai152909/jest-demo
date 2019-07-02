@@ -7,11 +7,3 @@ bbb
 ccc4444
 
 
-feature//rss-feed
-完成功能feature/rss-feed
-
-feature/add-link
-ssss
-
-releast 1.2.2
-sss
