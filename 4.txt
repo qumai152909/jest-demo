@@ -11,3 +11,6 @@ feature//rss-feed
 完成功能feature/rss-feed
 
 feature/add-link
+
+
+releast 1.2.2
