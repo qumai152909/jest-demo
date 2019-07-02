@@ -2,8 +2,6 @@
 rrrrrrrrrr
 ttttttttt
 sssssss
-aaa
-bbb
-ccc4444
+222222
 
 
