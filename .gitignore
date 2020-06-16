@@ -1,0 +1,13 @@
+.DS_Store
+.vscode/
+*.log
+.idea*
+asset/*
+asset-dev/*
+yarn-error.log
+yarn.lock
+package-lock.json
+node_modules
+.svn*
+fonts/*
+

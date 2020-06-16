@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CompCity test 1`] = `
+<div
+  className="comp-city"
+>
+  <h2>
+    comp-city-title
+  </h2>
+  <div
+    className="comp-body"
+  >
+    <h3>
+      comp-body
+    </h3>
+  </div>
+</div>
+`;
