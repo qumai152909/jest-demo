@@ -1,7 +1,5 @@
-import makeChange from './makeChange';
+const makeChange = require('../src/makeChange.js');
 
 test('拿200元买120块商品，预期会找零80元~', () => {
-  const money = 200;
-  const price = 120;
-  expect(makeChange(money, price)).toBe(80);
+  expect(makeChange(200, 120)).toBe(80);
 });

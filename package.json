@@ -1,20 +1,14 @@
 {
-  "name": "comp-demo-1",
+  "name": "jest-demo-1",
   "version": "1.0.0",
-  "description": "react component demo",
+  "description": "jest demo",
   "main": "./src/index.js",
-  "jest": {
-    "testRegex": "/test/.*.test.jsx?$"
-  },
   "scripts": {
-    "test": "jest --coverage",
-    "beta": "cnpm publish --tag beta",
-    "build": "babel src --out-dir lib",
-    "start": "webpack-dev-server --progress --colors --config ./config/webpack.dev.config.js"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "http://gitcode.lietou.com/dev38/cnpm/cnpm-react-progress-pc.git"
+    "url": "http://uuu.uu.com/jest.git"
   },
   "keywords": [
     "react",
