@@ -8,7 +8,7 @@ function LinkButton() {
   };
 
   return (
-    <section onClick={ handleClick }>
+    <section aria-hidden onClick={ handleClick }>
       <p>
         {
           linked

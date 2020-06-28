@@ -3,4 +3,4 @@
 function makeChange(money, price) {
   return money - price;
 }
-module.exports = makeChange;
+export default makeChange;

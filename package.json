@@ -4,7 +4,7 @@
   "description": "jest demo",
   "main": "./src/index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --coverage"
   },
   "repository": {
     "type": "git",
@@ -50,6 +50,9 @@
     "babel-jest": "^26.0.1",
     "babel-loader": "^8.1.0",
     "css-loader": "^3.5.1",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.2",
+    "enzyme-to-json": "^3.5.0",
     "file-loader": "^4.3.0",
     "jest": "^26.0.1",
     "less": "^3.11.1",
